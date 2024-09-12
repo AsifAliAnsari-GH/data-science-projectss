@@ -25,7 +25,9 @@ being bones , and that the ethical counteraccusations of using automated models 
 fake news discovery are completely considered and bandied.
 
 Project 2 -
+
 Customer Churn Prediction Project
+
 This project focuses on predicting customer churn using various machine learning algorithms. Customer churn refers to when customers stop using a company's product or service, and predicting churn is critical for businesses to retain their customers and optimize their marketing strategies.
 
 Project Overview-
