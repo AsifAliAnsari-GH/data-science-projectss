@@ -32,7 +32,9 @@ This project focuses on predicting customer churn using various machine learning
 
 Project Overview-
 In this project, I worked with a customer dataset to predict whether a customer would churn. The project involved data preprocessing, exploratory data analysis (EDA), feature engineering, and applying several machine learning models for churn prediction. 
+
 The models used include:
+
 1.Logistic Regression
 
 2.Decision Tree
