@@ -34,14 +34,21 @@ Project Overview-
 In this project, I worked with a customer dataset to predict whether a customer would churn. The project involved data preprocessing, exploratory data analysis (EDA), feature engineering, and applying several machine learning models for churn prediction. 
 The models used include:
 Logistic Regression
+
 Decision Tree
+
 K-Nearest Neighbors (KNN)
+
 Support Vector Machine (SVM)
 
 Key Steps:
+
 Data Preprocessing: Handling missing values, encoding categorical variables, and scaling features.
+
 Exploratory Data Analysis (EDA): Identifying key trends and patterns in the data.
+
 Model Training & Evaluation: Training multiple machine learning models and evaluating their performance based on accuracy, precision, recall, and F1-score.
+
 Results: Achieved an accuracy of 86% using [Best Performing Model].
 
 
