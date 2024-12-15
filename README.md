@@ -2,7 +2,9 @@
 Developed a machine learning model to identify fake news articles. Used NLP techniques for feature extraction and various supervised learning algorithms for classification. Achieved high accuracy through model optimization and implemented a user-friendly web application for real-time analysis.
 
 
-Project 1 - Fake News Detection
+**Project 1 - **
+
+**Fake News Detection**
 This project will address the following key challenges:
 1. Detecting fake news from a large and different dataset The dataset of news papers
 may contain a wide range of motifs, sources, and styles, making it challenging to
@@ -24,9 +26,11 @@ important to insure that the models don't introduce new impulses or immortalize
 being bones , and that the ethical counteraccusations of using automated models for
 fake news discovery are completely considered and bandied.
 
-Project 2 -
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Customer Churn Prediction Project
+**Project 2 -**
+
+**Customer Churn Prediction Project**
 
 This project focuses on predicting customer churn using various machine learning algorithms. Customer churn refers to when customers stop using a company's product or service, and predicting churn is critical for businesses to retain their customers and optimize their marketing strategies.
 
@@ -64,6 +68,43 @@ Technologies Used
 3.Scikit-learn
 
 4.Matplotlib, Seaborn
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**Project 3 -**
+
+**Skin Lesion Classification Project Using Ensemble Learning**
+
+**Project Title- Ensemble Learning for Skin Lesion Classification: Differentiating Benign and Malignant Cases**
+
+Objective of Project-
+
+The project aims to classify skin lesions as benign or malignant using ensemble learning techniques. The motivation stems from the need for accurate, automated diagnostic tools to improve melanoma detection, as conventional methods often face challenges like intersubjective variability and resource intensiveness.
+
+Key Features of the Project-
+
+1) Dataset:
+
+Source: ISIC 2024 dataset.
+Content: Dermoscopic images with metadata including lesion type, patient age, and gender.
+Preprocessing: Includes resizing, normalization, and metadata integration for feature enrichment.
+
+2) Techniques:
+
+Feature Extraction: Extracted color, texture, shape features, and metadata.
+Augmentation: Applied flipping, zooming, and rotations to increase data variability and reduce overfitting.
+Class Balancing: Used downsampling to address the imbalance in benign vs. malignant lesion counts.
+
+3) Models:
+Three ensemble learning models were implemented:
+
+Random Forest: Bagging-based model with the highest accuracy (75%) post hyperparameter tuning.
+XGBoost: Boosting-based model with an accuracy of 72%.
+LightGBM: Gradient boosting model optimized for speed and memory, achieving 72% accuracy.
+
+4)Evaluation Metrics:
+
+Accuracy, F1-score, Precision, Recall, AUC-ROC, and Confusion Matrix.
 
 
 
